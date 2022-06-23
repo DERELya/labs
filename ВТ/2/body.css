@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    font-family: "Courier New", Courier, monospace;
+    background: linear-gradient(#b2f7ef 20%, #eff7f6 20% 80%) 100% 100% no-repeat;
+    background-size: cover;
+  }
+  
+  .form {
+    width: 100%;
+    margin-top: 5%;
+    background: white;
+    border-radius: 12px;
+    height: 100%;
+  }
+  
+  .line {
+    border-bottom: 20px solid #f7d6e0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .form-container {
+    height: 100%;
+} 
